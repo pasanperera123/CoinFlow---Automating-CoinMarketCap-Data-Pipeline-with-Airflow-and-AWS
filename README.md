@@ -9,9 +9,11 @@ Architecture Diagram
 
 <img width="3675" height="1875" alt="Blank diagram (4)" src="https://github.com/user-attachments/assets/f037f9ca-5bfc-46c6-9ddd-fdb699331d5a" />
 
+
 Workflow
 
 Detailed description about the work flow can be found as a Medium article.
+
 https://medium.com/@pasan.eecs/coinflow-automating-coinmarketcap-data-pipeline-with-airflow-and-aws-08cbc762e1b7
 
 Summary
